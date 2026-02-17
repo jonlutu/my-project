@@ -1,0 +1,6 @@
+# Python Dependencies for Jonathan's Learning Project
+# Install with: pip install -r requirements.txt
+
+psutil>=5.8.0      # System and process utilities
+requests>=2.25.0   # HTTP library for future API integrations  
+python-dateutil>=2.8.0  # Better date handling
