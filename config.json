@@ -1,0 +1,23 @@
+{
+  "project": {
+    "name": "Jonathan's Learning Project",
+    "version": "1.0.0",
+    "description": "A beginner-friendly project to learn Git, Python, and GitHub collaboration",
+    "author": "Jonathan L",
+    "contact": "wizkidmajor@gmail.com"
+  },
+  "settings": {
+    "debug_mode": false,
+    "max_greetings": 10,
+    "default_language": "en",
+    "features": {
+      "interactive_mode": true,
+      "logging": false
+    }
+  },
+  "development": {
+    "git_workflow": "feature-branches",
+    "collaboration": "pull-requests",
+    "code_style": "pep8"
+  }
+}
